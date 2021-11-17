@@ -5,5 +5,5 @@ In this project, we are going to explore and analyze a dataset which contains sp
 
 ##  Data 
 
-We split our data into training and validation datasets and apply ML pipeline on these two. Than, run the most accurate model(knn) to predict target values of test dataset.
+We split our data into training and validation datasets and apply ML pipeline on these two. Then, run the most accurate model(knn) to predict target values of test dataset.
 
